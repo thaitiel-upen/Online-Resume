@@ -10,13 +10,13 @@
 
     - Summary or objective statement
 
-    - Education (list degrees, schools, and dates)
+    - Education at least 3 items (list degrees, schools, and dates)
 
-    - Work experience (list job titles, employers, dates, and responsibilities)
+    - Work experience at least 3 (list job titles, employers, dates, and responsibilities), if not previous experience, you can put projects or activities done at school.
 
-    - Skills (list relevant skills or areas of expertise)
+    - Skills (list relevant skills or areas of expertise) At least 5, you can use skills obtained in other subjects.
 
-    - Awards, certifications, or other achievements (list any relevant awards, certifications, or other accomplishments)
+    - Awards, certifications, or other achievements (list any relevant awards, certifications, or other accomplishments), if you don't have any, put the grades at school you are proud the most.
 
 5. Use appropriate HTML tags to format the content of each section, such as h1 for section headings and ul or ol for lists.
 
